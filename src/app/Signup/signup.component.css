@@ -22,7 +22,7 @@
     background-color: aquamarine;
     width: 24%;
     top: 181px;
-    left: 372px;
+    left: 30%;
     padding: 109px 148px 149px 97px;
     border-radius: 36px;
     position: relative;
@@ -36,7 +36,14 @@
     padding: 7px 14px;
     border-radius: 10px;
 }
-
+.form-control3{
+    position: relative;
+    top:40px;
+    width: 346px;
+    font-size: 26px;
+    padding: 7px 14px;
+    border-radius: 10px;
+}
 .btn{
     width: 122px;
     position: relative;

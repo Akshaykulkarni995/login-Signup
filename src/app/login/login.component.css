@@ -22,12 +22,14 @@
     background-color: aquamarine;
     width: 24%;
     top: 181px;
-    left: 372px;
+    left: 30%;
     padding: 109px 148px 149px 97px;
     border-radius: 36px;
     position: relative;
 }
-
+.signup{
+    top:20%;
+}
 .form-control1{
     position: relative;
     top:20px;
